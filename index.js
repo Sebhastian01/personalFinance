@@ -33,3 +33,5 @@
         const saldo = totalPagos - totalGastos;
         saldoElem.textContent = `$${saldo.toFixed(2)}`;
     }
+
+    // ensayo
